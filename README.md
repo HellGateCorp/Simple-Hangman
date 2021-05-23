@@ -1,2 +1,2 @@
 # Simple-Hangman
-A Mini Game named "Hangman", which you can play in your Console ...
+A JavaFX based Mini-Classic-Game named "Hangman", which you can play in your Console ⚖️
